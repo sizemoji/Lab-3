@@ -22,6 +22,7 @@ class Main {
   System.out.println("BLAST OFF!");
 
   // So, I didn't use the while loop. Is doing it this way wrong, or does it create more work for me in the end?
+  // Now, that i am running this more i realize that the run time is slower so that could be a result?
   
   }
 }
